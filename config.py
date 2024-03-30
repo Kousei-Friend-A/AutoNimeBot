@@ -12,7 +12,7 @@ MONGO_DB_URI = "mongodb+srv://manudarkdevil911:manu1234@cluster0.alnwwhb.mongodb
 INDEX_ID = -1002023249945
 UPLOADS_ID = -1002094965664
 
-STATUS_ID = 1
+STATUS_ID = 3
 SCHEDULE_ID = 2
 
 CHANNEL_TITLE = getenv("ON")
