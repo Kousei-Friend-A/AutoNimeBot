@@ -9,8 +9,8 @@ BOT_TOKEN = "5383246595:AAF7UYG-baggRelLuAATKQ6qPpANq_qJP6Q"
 
 MONGO_DB_URI = "mongodb+srv://manudarkdevil911:manu1234@cluster0.alnwwhb.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 
-INDEX_ID = int(getenv("-1002023249945"))
-UPLOADS_ID = int(getenv("-1002094965664"))
+INDEX_ID = -1002023249945
+UPLOADS_ID = "-1002094965664"
 
 STATUS_ID = int(getenv("1"))
 SCHEDULE_ID = int(getenv("2"))
